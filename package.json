@@ -1,0 +1,32 @@
+{
+  "name": "word-count-map-reduce",
+  "version": "1.0.0",
+  "description": "Word count through MapReduce",
+  "main": "mapper.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deshdeepakyadav/word-count-map-reduce.git"
+  },
+  "keywords": [
+    "map",
+    "reduce",
+    "word",
+    "count"
+  ],
+  "author": "Desh Deepak Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deshdeepakyadav/word-count-map-reduce/issues"
+  },
+  "homepage": "https://github.com/deshdeepakyadav/word-count-map-reduce#readme",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "split": "^1.0.1"
+  }
+}
